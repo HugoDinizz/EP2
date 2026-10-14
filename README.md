@@ -34,7 +34,6 @@ Everything was run in a conda environment. Versions used, for comparison:
 | matplotlib | 3.11.2 |
 | classy (CLASS) | 3.4.1 |
 | camb | 2.0.4 |
-
 | jupyterlab | 4.6.4 |
 | ipykernel | 7.4.0 |
 
